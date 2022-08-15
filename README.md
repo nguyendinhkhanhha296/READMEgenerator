@@ -1,22 +1,18 @@
-<h1 align="center">README.md Generator Using Node.js 👋</h1>
+<h1 align="center">README.md Generator Using Node.js</h1>
    
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/README-generator" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/README-generator"  />
-    <img src="https://img.shields.io/github/issues/jpd61/README-generator" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/README-generator" >
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
-    </a>
+    <img src="https://img.shields.io/github/repo-size/nguyendinhkhanhha296/READMEgenerator" />
+    <img src="https://img.shields.io/github/languages/top/nguyendinhkhanhha296/READMEgenerator"  />
+    <img src="https://img.shields.io/github/issues/nguyendinhkhanhha296/READMEgenerator" />
+    <img src="https://img.shields.io/github/last-commit/nguyendinhkhanhha296/READMEgenerator" >
 </p>
   
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/jQuery-blue"  />
-    <img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/-Node.js-green" />
     <img src="https://img.shields.io/badge/-inquirer-red" >
-    <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
     <img src="https://img.shields.io/badge/-json-orange" />
 </p>
    
@@ -26,9 +22,9 @@
   
 💻 Below is the gif showing the functionality of the application:
   
-![DeWoody README Generator](./src/dewoody-readme-generator.gif)
+![README Generator](assets/ezgif.com-gif-maker.gif)
   
-🎥 The full movie file showing functionality of the application can be found [here](./src/dewody-readme-generator-movie.webm)  
+🎥 The full movie file showing functionality of the application can be found [here](assets/Screen Recording 2022-08-15 at 04.42.55.mov)  
   
 ## User Story
   
@@ -83,7 +79,7 @@ Run the following command at th root of your project and answer the prompted que
 `node index.js`
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:octocat: [Ha Nguyen](https://github.com/nguyendinhkhanhha296)
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+✉️ Contact me with any questions: [email](mailto:nguyendinhkhanhha296@gmail.com) , [GitHub](https://github.com/nguyendinhkhanhha296)<br />
