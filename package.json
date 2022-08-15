@@ -5,10 +5,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "khanhha",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
-  "description": ""
+  "description": "A professional readMe file generator that uses Node Inquirer",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyendinhkhanhha296/READMEgenerator.git"
+  },
+  "keywords": [
+    "README",
+    "Node.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/nguyendinhkhanhha296/READMEgenerator/issues"
+  },
+  "homepage": "https://github.com/nguyendinhkhanhha296/READMEgenerator#readme"
 }
