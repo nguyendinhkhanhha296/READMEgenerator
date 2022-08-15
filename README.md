@@ -18,13 +18,13 @@
    
 ## Description
   
-🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found [here]()  
+🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found [here](./dist/README.md)  
   
 💻 Below is the gif showing the functionality of the application:
   
 ![README Generator](assets/ezgif.com-gif-maker.gif)
   
-🎥 The full movie file showing functionality of the application can be found [here](assets/Screen Recording 2022-08-15 at 04.42.55.mov)  
+🎥 The full movie file showing functionality of the application can be found [here](./assets/Screen%20Recording%202022-08-15%20at%2004.42.55.mov)  
   
 ## User Story
   
