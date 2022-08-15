@@ -3,7 +3,7 @@
   
 ![badge](https://img.shields.io/badge/license-ISC-blueviolet)<br />
 ## Description
-🔍 A node.js application that creates a generated README.md fine to the dist directory
+🔍 A node.js application that creates a generated README.md fie to the dist directory
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
