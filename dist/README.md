@@ -20,7 +20,8 @@
 [![badge](https://img.shields.io/badge/license-ISC-blueviolet)](https://opensource.org/licenses/ISC)
 
 <br />
-This application is covered by the ISC license. 
+This application is covered by the ISC license.
+
 ## Contributing
 👪 Ha Nguyen
 ## Tests
